@@ -396,3 +396,7 @@ ICON_SPELLCHECK_SEARCH=<img src="/screens/go_but.gif" class="button" border="0" 
 INNOVATIVE_FOOTER=center|a
 IR_PLACEMENT=1
 SPELLCHECK=<span class="spellcheckTool">Did you mean %a? %s </span>
+
+# Scoping
+
+LOCKSCOPE=no
